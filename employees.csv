@@ -1,0 +1,25 @@
+id,first_name,last_name,age,sex,employee_title,department,salary,target,bonus,email,city,address,manager_id
+1,AAHANA,SHARMA,35,Female,deep learning,msgai ,20714,23592,2173,AAHANA.SHARMA@gmail.com,bengaluru,Flat No:20bengaluruPin code:816383,3
+2,NAYONIKA,SINGH,41,Female,java,innovi technologies ,16554,18775,3315,NAYONIKA.SINGH@gmail.com,delhi ncr,Flat No:17delhi ncrPin code:339909,5
+3,ARPIT,VIJAYKUMAR,35,Male,python,emerging india ,17079,21635,4054,ARPIT.VIJAYKUMAR@gmail.com,bengaluru,Flat No:2bengaluruPin code:586790,1
+4,HARSHAVARDHAN,ANSHIKA,39,Male,data science,dvara trust ,39705,43450,4484,HARSHAVARDHAN.ANSHIKA@gmail.com,chandigarh,Flat No:6chandigarhPin code:624836,3
+5,RUDRA,BAIRAGYA,25,Male,digital marketing,msgai ,32381,36552,4406,RUDRA.BAIRAGYA@gmail.com,delhi ncr,Flat No:2delhi ncrPin code:238605,2
+6,GAUTAM,GRACE,37,Male,web designing,ally  executivecom ,45847,47592,4154,GAUTAM.GRACE@gmail.com,chandigarh,Flat No:4chandigarhPin code:682209,3
+7,SHIV,MAHIN,28,Male,big data,techknowledgey pte ltd ,29576,33923,4553,SHIV.MAHIN@gmail.com,kanpur,Flat No:6kanpurPin code:616585,5
+8,AMRIK,AGGARWAL,36,Male,sap,simply people ,19111,23056,3817,AMRIK.AGGARWAL@gmail.com,lucknow,Flat No:2lucknowPin code:754811,1
+9,SHAURYA,SHANDILYA,44,Male,aspnet,talpro ,40759,45056,2166,SHAURYA.SHANDILYA@gmail.com,pune,Flat No:5punePin code:348558,3
+10,SARAH,VIJAY,32,Female,salesforce,talpro ,37724,41349,2310,SARAH.VIJAY@gmail.com,meerut,Flat No:9meerutPin code:373897,2
+11,ROHIT,SEAL,47,Male,hadoop,simply people ,27470,31519,1621,ROHIT.SEAL@gmail.com,noida,Flat No:2noidaPin code:360231,3
+12,MAHIM,SOHIL,39,Female,machine learning,mahendra centre ,38261,40231,2467,MAHIM.SOHIL@gmail.com,gurgaon,Flat No:8gurgaonPin code:220997,2
+13,TANAY,MOOLCHANDANI,48,Male,software engineer,v employment solutions ,40834,45833,1486,TANAY.MOOLCHANDANI@gmail.com,hyderabad,Flat No:13hyderabadPin code:811731,1
+14,ANUBHAB,MAHENDRA,44,Male,software developer,jobay ,37336,38401,4445,ANUBHAB.MAHENDRA@gmail.com,chennai,Flat No:16chennaiPin code:382669,3
+15,TVISHA,AWASTHI,33,Female,programmer,search folks ,12579,14039,4311,TVISHA.AWASTHI@gmail.com,pune,Flat No:14punePin code:115328,5
+16,DAAKSHI,AISHWARYA,33,Female,developer,emploi consultancy ,36139,38393,3549,DAAKSHI.AISHWARYA@gmail.com,mumbai,Flat No:18mumbaiPin code:759794,1
+17,MAYURESH,AGARWAL,44,Male,web designer,talent socio ,37624,42272,1337,MAYURESH.AGARWAL@gmail.com,navi mumbai,Flat No:12navi mumbaiPin code:346506,3
+18,NINAD,DHANANJAY,30,Male,python,mahendra centre ,34050,37925,3362,NINAD.DHANANJAY@gmail.com,ahmedabad,Flat No:18ahmedabadPin code:394187,2
+19,DIVYAMAN,GURUSHANKAR,26,Male,deep learning,jobay ,15853,19266,1241,DIVYAMAN.GURUSHANKAR@gmail.com,kolkata,Flat No:15kolkataPin code:349266,5
+20,JAYESH,THINDI,26,Male,django,mphasis limited ,33774,38691,2164,JAYESH.THINDI@gmail.com,bhubaneshwar,Flat No:6bhubaneshwarPin code:482352,1
+21,SARTHAKI,CHOUDHARY,48,Male,nlp,talent socio ,26309,28587,4823,SARTHAKI.CHOUDHARY@gmail.com,orissa,Flat No:19orissaPin code:219327,3
+22,HIMMAT,PILLAI,28,Male,data science,curise analytics pvt ltd ,24239,28922,3175,HIMMAT.PILLAI@gmail.com,kolkata,Flat No:5kolkataPin code:808153,3
+23,ANISH,SABEEL,42,Male,java,jobay ,39099,42677,4496,ANISH.SABEEL@gmail.com,delhi,Flat No:19delhiPin code:269929,5
+24,AKHIL,SINGAL,44,Male,artificial intelligence,edgeverve systems limited ,32409,33552,1409,AKHIL.SINGAL@gmail.com,greater noida,Flat No:18greater noidaPin code:774179,1
